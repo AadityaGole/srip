@@ -1,0 +1,2183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Paddington, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.22867804102958,
+            -33.882122576911726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Singapore, Singapore",
+          "Paddington, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.22867804102958,
+            -33.882122576911726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Ancol, Indonesia",
+          "Paddington, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            151.22867804102958,
+            -33.882122576911726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Paddington, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.22867804102958,
+            -33.882122576911726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Paddington, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.22867804102958,
+            -33.882122576911726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Alexandria, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Singapore, Singapore",
+          "Alexandria, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Ancol, Indonesia",
+          "Alexandria, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Alexandria, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Alexandria, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Sydney, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Singapore, Singapore",
+          "Sydney, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Ancol, Indonesia",
+          "Sydney, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Sydney, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Sydney, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Singapore, Singapore",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Ancol, Indonesia",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Singapore, Singapore",
+          "Batam, Indonesia",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            104.01664054897991,
+            1.066796188550793
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Singapore, Singapore",
+          "Makassar, Indonesia",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Asia Connect Cable-1 (ACC-1)",
+          "Asia Connect Cable-1 (ACC-1)"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            119.41239198623502,
+            -5.152184574655166
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Perth, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "INDIGO-West"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            115.85721872350325,
+            -31.95343894398052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Ancol, Indonesia",
+          "Perth, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "INDIGO-West"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            115.85721872350325,
+            -31.95343894398052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Singapore, Singapore",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Ancol, Indonesia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Alexandria, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Singapore, Singapore",
+          "Alexandria, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Ancol, Indonesia",
+          "Alexandria, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Sydney, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Singapore, Singapore",
+          "Sydney, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Kochi, India",
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Paddington, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.22867804102958,
+            -33.882122576911726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Paddington, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.22867804102958,
+            -33.882122576911726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Ancol, Indonesia",
+          "Paddington, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            151.22867804102958,
+            -33.882122576911726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Paddington, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.22867804102958,
+            -33.882122576911726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Alexandria, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Alexandria, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Ancol, Indonesia",
+          "Alexandria, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Sydney, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Sydney, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Ancol, Indonesia",
+          "Sydney, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Kochi, India",
+          "Jakarta, Indonesia",
+          "Sydney, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            76.2695514552781,
+            9.938085366963655
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Ancol, Indonesia",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Batam, Indonesia",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            104.01664054897991,
+            1.066796188550793
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Makassar, Indonesia",
+          "Darwin, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Asia Connect Cable-1 (ACC-1)",
+          "Asia Connect Cable-1 (ACC-1)"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            119.41239198623502,
+            -5.152184574655166
+          ],
+          [
+            130.8431456073319,
+            -12.467490679762426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Tuas, Singapore",
+          "Perth, Australia"
+        ],
+        "cables": [
+          "SeaMeWe-4",
+          "INDIGO-West"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.64707112328632,
+            1.338192522185158
+          ],
+          [
+            115.85721872350325,
+            -31.95343894398052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Perth, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "INDIGO-West"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            115.85721872350325,
+            -31.95343894398052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Ancol, Indonesia",
+          "Perth, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "INDIGO-West"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            115.85721872350325,
+            -31.95343894398052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Ancol, Indonesia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Alexandria, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Alexandria, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Ancol, Indonesia",
+          "Alexandria, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.83337257701858,
+            -6.129010757137125
+          ],
+          [
+            151.19620853634117,
+            -33.913673538776834
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Jakarta, Indonesia",
+          "Sydney, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            106.82785500280222,
+            -6.171598654655946
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Chennai, India",
+          "Singapore, Singapore",
+          "Sydney, Australia",
+          "Brisbane, Australia"
+        ],
+        "cables": [
+          "ICE IV",
+          "Hawaiki Nui 1",
+          "Hawaiki Nui 1"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.24308379664043,
+            13.06348539106232
+          ],
+          [
+            103.85310700000069,
+            1.293872999999682
+          ],
+          [
+            151.20704719697792,
+            -33.86969726258813
+          ],
+          [
+            153.0228269999997,
+            -27.468880000000254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Mumbai, India",
+          "Tuas, Singapore",
+          "Perth, Australia"
+        ],
+        "cables": [
+          "SeaMeWe-4",
+          "INDIGO-West"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.87590151562159,
+            19.07579693373203
+          ],
+          [
+            103.64707112328632,
+            1.338192522185158
+          ],
+          [
+            115.85721872350325,
+            -31.95343894398052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path": [
+          "Mumbai, India",
+          "Morib, Malaysia",
+          "Tuas, Singapore",
+          "Perth, Australia"
+        ],
+        "cables": [
+          "MIST",
+          "MIST",
+          "INDIGO-West"
+        ],
+        "cable_count": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.87590151562159,
+            19.07579693373203
+          ],
+          [
+            101.4436141980139,
+            2.751191204441439
+          ],
+          [
+            103.64707112328632,
+            1.338192522185158
+          ],
+          [
+            115.85721872350325,
+            -31.95343894398052
+          ]
+        ]
+      }
+    }
+  ]
+}
